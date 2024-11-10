@@ -1,4 +1,4 @@
-import { GameState, Player, Role } from './types';
+import { GameState, Role } from './types';
 
 export class ChitGame {
   private state: GameState;
